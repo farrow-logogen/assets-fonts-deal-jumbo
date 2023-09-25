@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Anaximander';
+    src: url('Anaximander.woff2') format('woff2'),
+        url('Anaximander.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anaximander rough';
+    src: url('Anaximanderrough.woff2') format('woff2'),
+        url('Anaximanderrough.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

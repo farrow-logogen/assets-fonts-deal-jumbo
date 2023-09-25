@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Harmony king';
+    src: url('Harmonyking-Regular.woff2') format('woff2'),
+        url('Harmonyking-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Harmony king ornaments';
+    src: url('Harmonykingornaments-Regular.woff2') format('woff2'),
+        url('Harmonykingornaments-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

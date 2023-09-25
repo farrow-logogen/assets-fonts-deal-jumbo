@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Bandakala';
+    src: url('Bandakala.woff2') format('woff2'),
+        url('Bandakala.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Swash Bandakala';
+    src: url('SwashBandakala.woff2') format('woff2'),
+        url('SwashBandakala.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+

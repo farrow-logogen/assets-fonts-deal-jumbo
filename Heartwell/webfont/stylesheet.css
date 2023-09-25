@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Heartwell';
+    src: url('Heartwell.woff2') format('woff2'),
+        url('Heartwell.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Trendy Script';
+    src: url('TrendyScript.woff2') format('woff2'),
+        url('TrendyScript.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Demonius Bold Inline Grunge';
+    src: url('DemoniusBoldInlineGrunge.woff2') format('woff2'),
+        url('DemoniusBoldInlineGrunge.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Demonius Bold Inline';
+    src: url('DemoniusBoldInline.woff2') format('woff2'),
+        url('DemoniusBoldInline.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+

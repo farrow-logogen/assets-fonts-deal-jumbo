@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Candelion';
+    src: url('CandelionBold-Bold.woff2') format('woff2'),
+        url('CandelionBold-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Candelion new rough';
+    src: url('Candelionnewrough.woff2') format('woff2'),
+        url('Candelionnewrough.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Swash';
+    src: url('Swash.woff2') format('woff2'),
+        url('Swash.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Candelion';
+    src: url('CandelionRegular.woff2') format('woff2'),
+        url('CandelionRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Candelion rough';
+    src: url('Candelionrough-Candelionrough.woff2') format('woff2'),
+        url('Candelionrough-Candelionrough.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

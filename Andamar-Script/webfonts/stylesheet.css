@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Swash';
+    src: url('Swash.woff2') format('woff2'),
+        url('Swash.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Andamar';
+    src: url('Untitled.woff2') format('woff2'),
+        url('Untitled.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Andamar Rough';
+    src: url('Untitled.woff2') format('woff2'),
+        url('Untitled.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

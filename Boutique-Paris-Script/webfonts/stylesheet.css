@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Boutique paris Swashes';
+    src: url('BoutiqueparisSwashes-Regular.woff2') format('woff2'),
+        url('BoutiqueparisSwashes-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Boutique paris Ligature';
+    src: url('BoutiqueparisLigature-Regular.woff2') format('woff2'),
+        url('BoutiqueparisLigature-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Boutique paris';
+    src: url('Boutiqueparis-Regular.woff2') format('woff2'),
+        url('Boutiqueparis-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Boutique paris 2';
+    src: url('Boutiqueparis2-Regular.woff2') format('woff2'),
+        url('Boutiqueparis2-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

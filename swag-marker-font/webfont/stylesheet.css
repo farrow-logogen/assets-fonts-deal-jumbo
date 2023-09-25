@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Swag Marker';
+    src: url('SwagMarker-Regular.woff2') format('woff2'),
+        url('SwagMarker-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

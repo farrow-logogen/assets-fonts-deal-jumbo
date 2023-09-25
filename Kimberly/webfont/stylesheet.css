@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kimberly';
+    src: url('Kimberly.woff2') format('woff2'),
+        url('Kimberly.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

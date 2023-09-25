@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Octopus Bold Inline';
+    src: url('OctopusBoldInline.woff2') format('woff2'),
+        url('OctopusBoldInline.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Octopus Bold Inline Grunge';
+    src: url('OctopusBoldInlineGrunge.woff2') format('woff2'),
+        url('OctopusBoldInlineGrunge.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Romeo Juliet';
+    src: url('RomeoJuliet.woff2') format('woff2'),
+        url('RomeoJuliet.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

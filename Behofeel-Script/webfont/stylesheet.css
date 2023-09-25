@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Behofeel Script';
+    src: url('BehofeelScript.woff2') format('woff2'),
+        url('BehofeelScript.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Behofeel Illustration';
+    src: url('BehofeelIllustration.woff2') format('woff2'),
+        url('BehofeelIllustration.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

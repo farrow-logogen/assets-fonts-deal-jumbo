@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Angelic';
+    src: url('Angelic-Regular.woff2') format('woff2'),
+        url('Angelic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Angelic 2';
+    src: url('Angelic2-Regular.woff2') format('woff2'),
+        url('Angelic2-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

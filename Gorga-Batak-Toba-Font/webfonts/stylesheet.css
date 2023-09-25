@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Gorga Font';
+    src: url('GorgaFont.woff2') format('woff2'),
+        url('GorgaFont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gorga Font Shadow';
+    src: url('GorgaFontShadow.woff2') format('woff2'),
+        url('GorgaFontShadow.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

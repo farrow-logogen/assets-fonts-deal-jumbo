@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Andamar serif';
+    src: url('Andamarserif.woff2') format('woff2'),
+        url('Andamarserif.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Andamar Serif Rough';
+    src: url('AndamarSerifRough.woff2') format('woff2'),
+        url('AndamarSerifRough.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Andamar Rough';
+    src: url('Untitled.woff2') format('woff2'),
+        url('Untitled.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Andamar';
+    src: url('Untitled.woff2') format('woff2'),
+        url('Untitled.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

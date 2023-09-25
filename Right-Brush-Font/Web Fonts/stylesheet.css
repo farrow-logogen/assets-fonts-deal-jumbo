@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'ultimatum';
+    src: url('ultimatumbold.woff2') format('woff2'),
+        url('ultimatumbold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ollie';
+    src: url('OllieRegular.woff2') format('woff2'),
+        url('OllieRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Right';
+    src: url('Right-Regular.woff2') format('woff2'),
+        url('Right-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

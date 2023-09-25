@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Raya';
+    src: url('Alternativeinline1.woff2') format('woff2'),
+        url('Alternativeinline1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raya';
+    src: url('Alternative1.woff2') format('woff2'),
+        url('Alternative1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raya';
+    src: url('Alternativeinline2.woff2') format('woff2'),
+        url('Alternativeinline2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raya';
+    src: url('Inline.woff2') format('woff2'),
+        url('Inline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raya';
+    src: url('Raya.woff2') format('woff2'),
+        url('Raya.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raya';
+    src: url('Alternative2.woff2') format('woff2'),
+        url('Alternative2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

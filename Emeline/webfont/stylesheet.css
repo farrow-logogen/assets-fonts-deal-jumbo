@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Emeline';
+    src: url('Emeline.woff2') format('woff2'),
+        url('Emeline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Windpeak';
+    src: url('Windpack.woff2') format('woff2'),
+        url('Windpack.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Swash';
+    src: url('Swash.woff2') format('woff2'),
+        url('Swash.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

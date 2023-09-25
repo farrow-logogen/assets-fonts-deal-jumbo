@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Sunlight Swashes';
+    src: url('SunlightSwashes-Regular.woff2') format('woff2'),
+        url('SunlightSwashes-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sunlight Alt';
+    src: url('SunlightAlt-Regular.woff2') format('woff2'),
+        url('SunlightAlt-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sunlight Marker';
+    src: url('SunlightMarker-Regular.woff2') format('woff2'),
+        url('SunlightMarker-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sunlight';
+    src: url('Sunlight-Regular.woff2') format('woff2'),
+        url('Sunlight-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+

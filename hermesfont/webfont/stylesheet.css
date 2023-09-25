@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hermes';
+    src: url('Hermes-Regular.woff2') format('woff2'),
+        url('Hermes-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Haksen';
+    src: url('Haksen.woff2') format('woff2'),
+        url('Haksen.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Tron Inline Grunge';
+    src: url('TronInlineGrunge.woff2') format('woff2'),
+        url('TronInlineGrunge.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tron Inline';
+    src: url('TronInline.woff2') format('woff2'),
+        url('TronInline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Paperfly';
+    src: url('Paperfly.woff2') format('woff2'),
+        url('Paperfly.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Momoco Medium Grunge';
+    src: url('MomocoMediumGrunge.woff2') format('woff2'),
+        url('MomocoMediumGrunge.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Soundtrack';
+    src: url('Soundtrack.woff2') format('woff2'),
+        url('Soundtrack.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Momoco';
+    src: url('MomocoMedium.woff2') format('woff2'),
+        url('MomocoMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+

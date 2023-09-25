@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Malbrouck Script';
+    src: url('MalbrouckScript.woff2') format('woff2'),
+        url('MalbrouckScript.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Malbrouck Illustration';
+    src: url('Untitled.woff2') format('woff2'),
+        url('Untitled.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

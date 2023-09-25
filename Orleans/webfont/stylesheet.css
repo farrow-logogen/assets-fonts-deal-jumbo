@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Thunder bold grunge';
+    src: url('Thunderboldgrunge.woff2') format('woff2'),
+        url('Thunderboldgrunge.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Thunder';
+    src: url('Thunderbold.woff2') format('woff2'),
+        url('Thunderbold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Orleans Swash';
+    src: url('OrleansSwash.woff2') format('woff2'),
+        url('OrleansSwash.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Orleans';
+    src: url('Orleans.woff2') format('woff2'),
+        url('Orleans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

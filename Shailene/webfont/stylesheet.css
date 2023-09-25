@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Shailene';
+    src: url('Shailene.woff2') format('woff2'),
+        url('Shailene.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

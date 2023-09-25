@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bettina';
+    src: url('Bettina.woff2') format('woff2'),
+        url('Bettina.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

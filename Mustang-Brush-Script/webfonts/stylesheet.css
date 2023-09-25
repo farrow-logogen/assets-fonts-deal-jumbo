@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Mustang brush';
+    src: url('Mustangbrush-Regular.woff2') format('woff2'),
+        url('Mustangbrush-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mustang brush alt.';
+    src: url('Mustangbrushalt-Regular.woff2') format('woff2'),
+        url('Mustangbrushalt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mustang Brush Swashes';
+    src: url('MustangBrushSwashes-Regular.woff2') format('woff2'),
+        url('MustangBrushSwashes-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

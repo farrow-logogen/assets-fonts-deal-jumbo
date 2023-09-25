@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sidebook';
+    src: url('Sidebook.woff2') format('woff2'),
+        url('Sidebook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

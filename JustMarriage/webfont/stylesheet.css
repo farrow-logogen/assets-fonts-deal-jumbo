@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Valeria Bold Inline';
+    src: url('ValeriaBoldInline.woff2') format('woff2'),
+        url('ValeriaBoldInline.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Just Marriage';
+    src: url('JustMarriage.woff2') format('woff2'),
+        url('JustMarriage.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Valeria Bold Inline Grunge';
+    src: url('ValeriaBoldInlineGrunge.woff2') format('woff2'),
+        url('ValeriaBoldInlineGrunge.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+

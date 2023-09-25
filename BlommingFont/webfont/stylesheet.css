@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Blomming Swashes';
+    src: url('BlommingSwashes-Regular.woff2') format('woff2'),
+        url('BlommingSwashes-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blomming';
+    src: url('Blomming-Regular.woff2') format('woff2'),
+        url('Blomming-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

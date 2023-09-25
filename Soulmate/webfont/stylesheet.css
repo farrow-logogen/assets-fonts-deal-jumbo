@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Soulmate';
+    src: url('Soulmate.woff2') format('woff2'),
+        url('Soulmate.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

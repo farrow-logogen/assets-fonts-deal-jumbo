@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Abigaile';
+    src: url('Abigaile.woff2') format('woff2'),
+        url('Abigaile.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+

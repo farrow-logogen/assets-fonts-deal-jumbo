@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Night Flight Standart';
+    src: url('NightFlightStandart-Regular.woff2') format('woff2'),
+        url('NightFlightStandart-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Night Flight Wide';
+    src: url('NightFlightWide-Regular.woff2') format('woff2'),
+        url('NightFlightWide-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Night Flight Alt';
+    src: url('NightFlightAlt-Regular.woff2') format('woff2'),
+        url('NightFlightAlt-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Night Flight';
+    src: url('NightFlight-Regular.woff2') format('woff2'),
+        url('NightFlight-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Night Flight Swashes';
+    src: url('NightFlightSwashes-Regular.woff2') format('woff2'),
+        url('NightFlightSwashes-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+

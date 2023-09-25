@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Swash';
+    src: url('Swash.woff2') format('woff2'),
+        url('Swash.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nayland';
+    src: url('Nayland.woff2') format('woff2'),
+        url('Nayland.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nayland Rough';
+    src: url('NaylandRough.woff2') format('woff2'),
+        url('NaylandRough.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

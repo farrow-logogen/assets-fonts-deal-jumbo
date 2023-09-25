@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Morgana NEW';
+    src: url('MorganaNEW.woff2') format('woff2'),
+        url('MorganaNEW.woff') format('woff'),
+        url('MorganaNEW.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

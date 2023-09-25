@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Midnight alt.';
+    src: url('Midnightalt-Regular.woff2') format('woff2'),
+        url('Midnightalt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Amadeus';
+    src: url('AmadeusBold.woff2') format('woff2'),
+        url('AmadeusBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Midnight';
+    src: url('Midnight-Regular.woff2') format('woff2'),
+        url('Midnight-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atari';
+    src: url('AtariBold.woff2') format('woff2'),
+        url('AtariBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+

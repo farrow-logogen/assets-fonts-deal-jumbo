@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Jansky Rough';
+    src: url('JanskyRough-Bold.woff2') format('woff2'),
+        url('JanskyRough-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Jansky';
+    src: url('Jansky.woff2') format('woff2'),
+        url('Jansky.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Swash';
+    src: url('Swash.woff2') format('woff2'),
+        url('Swash.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

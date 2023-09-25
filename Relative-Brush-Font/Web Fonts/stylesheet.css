@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Relative alt.';
+    src: url('Relativealt-Regular.woff2') format('woff2'),
+        url('Relativealt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Relative';
+    src: url('Relative-Regular.woff2') format('woff2'),
+        url('Relative-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

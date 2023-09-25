@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Ragtime';
+    src: url('Ragtime-Regular.woff2') format('woff2'),
+        url('Ragtime-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ragtime swashes';
+    src: url('Ragtimeswashes-Regular.woff2') format('woff2'),
+        url('Ragtimeswashes-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ragtime Marker';
+    src: url('RagtimeMarker-Regular.woff2') format('woff2'),
+        url('RagtimeMarker-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

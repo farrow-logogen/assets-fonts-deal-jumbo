@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mondays';
+    src: url('Mondays.woff2') format('woff2'),
+        url('Mondays.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

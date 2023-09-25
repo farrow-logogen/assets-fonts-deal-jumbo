@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Danica';
+    src: url('Danica-Regular.woff2') format('woff2'),
+        url('Danica-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Danica alt.';
+    src: url('Danicaalt-Regular.woff2') format('woff2'),
+        url('Danicaalt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
